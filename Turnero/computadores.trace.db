@@ -1,0 +1,4 @@
+2019-06-05 17:15:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "USERS" no encontrada
+Table "USERS" not found; SQL statement:
+SELECT IDENTIFICACION FROM users WHERE IDENTIFICACION <> IDENTIFICACION [42102-199]
